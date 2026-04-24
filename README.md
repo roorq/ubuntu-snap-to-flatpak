@@ -5,7 +5,7 @@ A one-liner bash script that completely removes Snap from Ubuntu and replaces it
 ## 🚀 Quick Install
 
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/roorq/ubuntu-snap-to-flatpak/main/migrate.sh)"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/roorq/ubuntu-snap-to-flatpak/main/ubuntu-snap-to-flatpak.sh)"
 
 📋 What does it do?
 Step	Action
