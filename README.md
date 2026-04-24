@@ -31,7 +31,7 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/roorq/ubuntu-snap-t
 
 ## ⚙️ Requirements
 
-- **OS:** Ubuntu 20.04 / 22.04 / 24.04 (or derivatives)
+- **OS:** Ubuntu 20.04 / 22.04 / 24.04 / 26.04 (or derivatives)
 - **Privileges:** Root (`sudo`)
 - **Tools:** `curl` (for one-liner install)
 - **Network:** Active internet connection
