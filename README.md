@@ -59,12 +59,16 @@ Install apps from Flathub:
 flatpak search <app_name>
 
 # Install examples
-flatpak install flathub org.mozilla.firefox
-flatpak install flathub com.spotify.Client
-flatpak install flathub com.visualstudio.code
+flatpak install flathub com.brave.Browser
+flatpak install flathub io.github.celluloid_player.Celluloid
+flatpak install flathub org.onlyoffice.desktopeditors
+flatpak install flathub io.github.flattool.Warehouse
+flatpak install flathub org.signal.Signal
+flatpak install flathub org.keepassxc.KeePassXC
+...
 
 # Run an app
-flatpak run org.mozilla.firefox
+flatpak run com.brave.Browser
 
 # Update all apps
 flatpak update
